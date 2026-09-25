@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.06nzki.cn/sitemap.xml
